@@ -1,0 +1,16 @@
+<mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="SandboxPlatypus.SandboxPlatypus.controller.PlatypusView" displayBlock="true">
+	<Shell id="shell">
+		<App id="app">
+			<pages>
+				<Page id="page" title="{i18n>title}">
+					<!--<content>-->
+					<Button xmlns="sap.m" text="Button" id="button0"/>
+					<Button xmlns="sap.m" text="Button" id="button1" width="100%" press="doStuff"/>
+					<ToggleButton xmlns="sap.m" text="Toggle Button" id="button0_1558465555195"/>
+					<!--</content>-->
+				<content/>
+				</Page>
+			</pages>
+		</App>
+	</Shell>
+</mvc:View>
