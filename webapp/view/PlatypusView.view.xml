@@ -5,7 +5,7 @@
 				<Page id="page" title="{i18n>title}">
 					<!--<content>-->
 					<Button xmlns="sap.m" text="Button" id="button0"/>
-					<Button xmlns="sap.m" text="Button" id="button1" width="100%" press="doStuff"/>
+					<Button xmlns="sap.m" text="Button" id="button1" width="50%" press="doStuff"/>
 					<ToggleButton xmlns="sap.m" text="Toggle Button" id="button0_1558465555195"/>
 					<!--</content>-->
 				<content/>
